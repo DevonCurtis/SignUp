@@ -138,3 +138,8 @@ p {
     color:rgba(255, 255, 255, 0.5);
     font-size: 0.8rem;
 }
+
+.have_account:hover {
+  color: #fff;
+  cursor: pointer;
+}
